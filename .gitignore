@@ -1,3 +1,10 @@
+# Dependencies and build output
 node_modules
 .next
+*.tsbuildinfo
+
+# Secrets
 .env
+
+# Personal project guide (kept locally, not pushed)
+PROJECT_GUIDE.md
